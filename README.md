@@ -1,2 +1,0 @@
-# IMC-JS
-Imc js
